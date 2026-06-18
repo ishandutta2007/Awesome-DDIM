@@ -30,3 +30,14 @@ The fundamental characteristic of the DDIM algorithm is a hyperparameter $\eta$ 
 | **Stochastic Interpolation** ($0 < \eta < 1$) | 2020 | [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [View Docs](./docs/stochastic-interpolation.md) |
 | **Accelerated Trajectory Sampling** (Skipped Steps) | 2020 | [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [View Docs](./docs/accelerated-sampling.md) |
 | **Continuous-Time gDDIM** (Generalized DDIM) | 2022 | [g-DDIM: Generalized denoising diffusion implicit models](https://arxiv.org/abs/2206.05564) | [View Docs](./docs/gddim.md) |
+
+## 📈 Star History
+<div align="center">
+   <a href="https://star-history.com/#ishandutta2007/Awesome-DDIM&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-DDIM&type=Date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-DDIM&type=Date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-DDIM&type=Date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
